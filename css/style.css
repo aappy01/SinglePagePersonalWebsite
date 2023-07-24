@@ -546,8 +546,9 @@ footer{
     grid-template-rows: auto auto;  
   }
   .projectImageDiv:hover > .overlay{
-    width: 94%;
+    width: 100%;
   }
+
 }
 @media(max-width:768px){
   .rightDiv{
@@ -633,7 +634,7 @@ footer{
     display: block; 
   }
   .projectImageDiv:hover > .overlay{
-    width: 94%;
+    width: 100%;
   }
   /* section Four */
   #sectionFour{
